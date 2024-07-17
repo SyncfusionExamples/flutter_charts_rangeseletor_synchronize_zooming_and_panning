@@ -1,0 +1,2 @@
+# flutter_charts_rangeseletor_synchronize_zooming_and_panning
+flutter_charts_rangeseletor_synchronize_zooming_and_panning
